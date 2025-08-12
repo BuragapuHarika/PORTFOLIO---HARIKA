@@ -62,6 +62,8 @@ export const Bio = {
         },
       ],
     },
+
+    
     {
       title: "Backend",
       skills: [
