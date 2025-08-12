@@ -101,6 +101,51 @@ export const Bio = {
       ],
     },
     
+{
+      title: "Cloud Computing",
+      skills: [
+        {
+          name: "AWS",
+          image: "/src/images/amazon.jpg",
+        },
+      ],
+    },
+
+
+
+    {
+      title: "OpenAi",
+      skills: [
+        {
+          name: "ChatGpt",
+          image: "/src/images/chatgpt.jpg",
+        },
+      ],
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       title: "Others",
       skills: [
